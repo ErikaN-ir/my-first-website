@@ -1,7 +1,10 @@
 # Code Institute
+## Web Development Streams
 
-Welcome ErikaN-ir,
+Link to deployed project - https://erikan-ir.github.io/my-first-website/
 
-We have preinstalled all of the tools you need to get started.
+Purpose of project - To get accustomed to using Github and Gitpod.
 
-Happy coding!
+Features - Icons and links to the Wikipedia pages of each of the relevent technologies used in the three streams.
+
+Tech used - Github and Gitpod
